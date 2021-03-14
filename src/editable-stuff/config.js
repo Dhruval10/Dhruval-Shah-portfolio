@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #39b51d, #517a85, #d9578f",
+  gradientColors: " #ff9b11, #9b59b6, #39b51d, #517a85, #d9578f",
   firstName: "Dhruval",
   middleName: "",
   lastName: "Shah",
@@ -82,30 +82,30 @@ const repos = {
 };
 
 // Leadership SECTION
-const leadership = {
-  show: false,
-  heading: "Leadership",
-  message:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
-  images :[],
-  imageSize: {}
-    // images: [
-  //   { 
-  //     img: require("../editable-stuff/dhruvalshah.png"), 
-  //     label: "First slide label", 
-  //     paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-  //   },
-  //   { 
-  //     img: require("../editable-stuff/dhruvalshah.png"), 
-  //     label: "Second slide label", 
-  //     paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-  //   },
-  // ],
-  // imageSize: {
-  //   width:"615",
-  //   height:"450"
-  // }
-};
+// const leadership = {
+//   show: false,
+//   heading: "Leadership",
+//   message:
+//     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
+//   images :[],
+//   imageSize: {}
+//     // images: [
+//   //   { 
+//   //     img: require("../editable-stuff/dhruvalshah.png"), 
+//   //     label: "First slide label", 
+//   //     paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+//   //   },
+//   //   { 
+//   //     img: require("../editable-stuff/dhruvalshah.png"), 
+//   //     label: "Second slide label", 
+//   //     paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+//   //   },
+//   // ],
+//   // imageSize: {
+//   //   width:"615",
+//   //   height:"450"
+//   // }
+// };
 
 // SKILLS SECTION
 const skills = {
@@ -114,14 +114,14 @@ const skills = {
   hardSkills: [
     { name: "Python", value: 95 },
     { name: "Java", value: 90 },
-    { name: "Hibernate", value: 80 },
-    { name: "Spring boot", value: 80 },
+    { name: "Hibernate", value: 90 },
+    { name: "Spring boot", value: 90 },
     { name: "Amazon Web Service", value: 90 },
     { name: "Machine Learning", value: 95 },
-    { name: "MongoDB", value: 85 },
-    { name: "MySQL", value: 85 },
-    { name: "Microsoft Azure", value: 70 },
-    { name: "Google Cloud and Firebase", value: 85 },
+    { name: "MongoDB", value: 90 },
+    { name: "MySQL", value: 90 },
+    { name: "Microsoft Azure", value: 88 },
+    { name: "Google Cloud and Firebase", value: 88 },
   ],
   softSkills: [
     { name: "Quick Lerner", value: 95 },
@@ -195,4 +195,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences};
+export { navBar, mainBody, about, repos, skills, getInTouch, experiences};
