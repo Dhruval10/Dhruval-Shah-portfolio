@@ -158,6 +158,7 @@ const experiences = {
         'Collected and Processed over 10 Million Tweets with 93.48 % accuracy using Long-short term memory',
         'Predicted Joe Biden will win by 55% votes in 2020 Election',
         'Used Amazon Sagemaker for data pre-processing and model training/testing',
+        'Build a model to detect human movement using Wi-Fi signals (By analyzing signal disturbances and frequency) in a closed environment using LSTM model'
       ],
     },
     {
