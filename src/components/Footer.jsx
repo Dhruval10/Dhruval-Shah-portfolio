@@ -12,8 +12,8 @@ const Footer = (props) => {
         <a
         className="badge badge-info"
         rel="noopener"
-        href="https://github.com/Dhruval10"
-        aria-label="My GitHub"
+        href="https://www.linkedin.com/in/Dhruval10/"
+        aria-label="My LinkedIn"
       >
         Dhruval Shah
       </a>{" "}
@@ -21,7 +21,7 @@ const Footer = (props) => {
       <p>
         <small className="text-muted">
           {" "}
-          contact@dhruval.tech
+          Let's get connected on LinkedIn ☝🏽
         </small>
       </p>
       </Container>

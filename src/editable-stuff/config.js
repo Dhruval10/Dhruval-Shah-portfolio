@@ -65,7 +65,7 @@ const about = {
   imageSize: 375,
   // imageLink: require("https://drive.google.com/file/d/1945M557DOcE2PhSGD_lyNWjGvhmI7gm3/view?usp=sharing"),
   message: "• Currently working as a Graduate Research Assistant at Cal State University - San Marcos  • 2 years of professional experience as a Software Engineer and as a Software Developer • Master's student in Computer Science at California State University - San Marcos graduating in May 2021 • Machine learning enthusiast with experience in all phases of SDLC using Agile Methodologies • Strong understanding of object-oriented programming/design, data structures and algorithms • Full-Stack Web Developer having experience in building web applications in Spring, Hibernate Java, MVC, React.JS, Node.JS • Have experience in Cloud technologies, have used Amazon EC2, S3, Lambda, EBS, CloudTrail, Sagemaker on enormous occasions",
-  resume: "http://resume.dhruval.tech/",
+  resume: "https://resume.dhruval.tech/",
 };
 
 // PROJECTS SECTION
