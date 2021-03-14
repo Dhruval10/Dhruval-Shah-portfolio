@@ -65,7 +65,8 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
 
           <div className={`col-lg-${showPic ? "7" : "12"}`}>
             <h2 className="display-4 mb-5 text-center">{heading}</h2>
-            <p className="lead text-center">{message}</p>
+            {/* <p className="lead text-center">{message}</p> */}
+            <p>• Currently working as a Graduate Research Assistant at Cal State University - San Marcos <br/>• 2 years of professional experience as a Software Engineer and as a Software Developer <br/>• Master's student in Computer Science at California State University - San Marcos graduating in May 2021 <br/>• Machine learning enthusiast with experience in all phases of SDLC using Agile Methodologies <br/>• Strong understanding of object-oriented programming/design, data structures and algorithms <br/> </p>
             {resume && (
               <p className="lead text-center">
                 <a

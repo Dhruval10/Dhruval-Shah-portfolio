@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Dhruval",
   middleName: "",
   lastName: "Shah",
-  message: " | Engineer | Programmer | Developer | Photographer | Creator |",
+  message: " | Software Engineer | Programmer | Developer | Photographer | Creator |",
   icons: [
     {
       "id": 0,
@@ -38,7 +38,7 @@ const mainBody = {
     {
       "id": 4,
       "image": "fa-twitter",
-      "url": "https://twitter.com/dhruval97",
+      "url": "https://twitter.com/shahdhruval10",
       "style": "socialicons"
     }
   ],
@@ -64,7 +64,7 @@ const about = {
   imageLink: require("../editable-stuff/dhruvalshah.png"),
   imageSize: 375,
   // imageLink: require("https://drive.google.com/file/d/1945M557DOcE2PhSGD_lyNWjGvhmI7gm3/view?usp=sharing"),
-  message: "• Currently working as a Graduate Research Assistant at Cal State University - San Marcos • 2 years of professional experience as a Software Engineer and as a Software Developer • Master's student in Computer Science at California State University - San Marcos graduating in May 2021 • Machine learning enthusiast with experience in all phases of SDLC using Agile Methodologies • Strong understanding of object-oriented programming/design, data structures and algorithms • Full-Stack Web Developer having experience in building web applications in Spring, Hibernate Java, MVC, React.JS, Node.JS • Have experience in Cloud technologies, have used Amazon EC2, S3, Lambda, EBS, CloudTrail, Sagemaker on enormous occasions",
+  message: "• Currently working as a Graduate Research Assistant at Cal State University - San Marcos  • 2 years of professional experience as a Software Engineer and as a Software Developer • Master's student in Computer Science at California State University - San Marcos graduating in May 2021 • Machine learning enthusiast with experience in all phases of SDLC using Agile Methodologies • Strong understanding of object-oriented programming/design, data structures and algorithms • Full-Stack Web Developer having experience in building web applications in Spring, Hibernate Java, MVC, React.JS, Node.JS • Have experience in Cloud technologies, have used Amazon EC2, S3, Lambda, EBS, CloudTrail, Sagemaker on enormous occasions",
   resume: "http://resume.dhruval.tech/",
 };
 
@@ -83,26 +83,28 @@ const repos = {
 
 // Leadership SECTION
 const leadership = {
-  show: false,
+  show: true,
   heading: "Leadership",
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
-  images: [
-    { 
-      img: require("../editable-stuff/dhruvalshah.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-    },
-    { 
-      img: require("../editable-stuff/dhruvalshah.png"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-    },
-  ],
-  imageSize: {
-    width:"615",
-    height:"450"
-  }
+  images :[],
+  imageSize: {}
+    // images: [
+  //   { 
+  //     img: require("../editable-stuff/dhruvalshah.png"), 
+  //     label: "First slide label", 
+  //     paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+  //   },
+  //   { 
+  //     img: require("../editable-stuff/dhruvalshah.png"), 
+  //     label: "Second slide label", 
+  //     paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+  //   },
+  // ],
+  // imageSize: {
+  //   width:"615",
+  //   height:"450"
+  // }
 };
 
 // SKILLS SECTION
@@ -135,6 +137,7 @@ const getInTouch = {
     "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "contact@dhruval.tech",
 };
+
 
 // Blog SECTION
 // const blog = {
