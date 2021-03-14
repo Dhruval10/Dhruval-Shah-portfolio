@@ -10,9 +10,9 @@ const Footer = (props) => {
         {props.children}
         
         <a
-        className="badge badge-dark"
+        className="badge badge-info"
         rel="noopener"
-        href="https://github.com/Kavan-Patel"
+        href="https://github.com/Dhruval10"
         aria-label="My GitHub"
       >
         Dhruval Shah
