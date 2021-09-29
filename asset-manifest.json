@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b6e7380.chunk.css",
+    "main.js": "/static/js/main.055fe4a0.chunk.js",
+    "main.js.map": "/static/js/main.055fe4a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.0b050e20.chunk.js": "/static/js/2.0b050e20.chunk.js",
+    "static/js/2.0b050e20.chunk.js.map": "/static/js/2.0b050e20.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e2dc64b23372c8b09e736755b9a0b473.js": "/precache-manifest.e2dc64b23372c8b09e736755b9a0b473.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6b6e7380.chunk.css.map": "/static/css/main.6b6e7380.chunk.css.map",
+    "static/js/2.0b050e20.chunk.js.LICENSE.txt": "/static/js/2.0b050e20.chunk.js.LICENSE.txt",
+    "static/media/csusm.jpg": "/static/media/csusm.e7d32405.jpg",
+    "static/media/dhruvalshah.png": "/static/media/dhruvalshah.71318673.png",
+    "static/media/softvan.png": "/static/media/softvan.48f1f4ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.0b050e20.chunk.js",
+    "static/css/main.6b6e7380.chunk.css",
+    "static/js/main.055fe4a0.chunk.js"
+  ]
+}
